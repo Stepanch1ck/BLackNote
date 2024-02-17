@@ -1,0 +1,11 @@
+C:\Users\nonam\source\repos\BLackNote\BLackNote\bin\Debug\BLackNote.exe.config
+C:\Users\nonam\source\repos\BLackNote\BLackNote\bin\Debug\BLackNote.exe
+C:\Users\nonam\source\repos\BLackNote\BLackNote\bin\Debug\BLackNote.pdb
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.csproj.AssemblyReference.cache
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.NotePad.resources
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.Properties.Resources.resources
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.csproj.GenerateResource.cache
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.exe
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.pdb
+C:\Users\nonam\source\repos\BLackNote\BLackNote\obj\Debug\BLackNote.About.resources
